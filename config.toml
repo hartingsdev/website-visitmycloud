@@ -3,7 +3,7 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "Visit My Cloud"
-theme                    = "sam"                      # install theme locally (git clone or submodule)
+theme                    = "slc"                      # install theme locally (git clone or submodule)
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 
